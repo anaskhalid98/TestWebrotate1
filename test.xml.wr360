@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <projectName>Test</projectName>
+  <projectConfig>E:\testWebrotate\Test\Test.xml</projectConfig>
+  <interface>
+    <clipboxPreview>True</clipboxPreview>
+    <clipboxFitImages>False</clipboxFitImages>
+    <showCenterGuide>False</showCenterGuide>
+    <showGridGuide>False</showGridGuide>
+    <showImageEdges>False</showImageEdges>
+    <showToolbarGuide>False</showToolbarGuide>
+    <lockWatermarks>False</lockWatermarks>
+    <spotWheelSpeedDown>False</spotWheelSpeedDown>
+  </interface>
+  <publishing>
+    <publishPath>E:\testWebrotate\Test\published</publishPath>
+    <viewName>Test</viewName>
+    <skinType>0</skinType>
+    <viewerWidth>600</viewerWidth>
+    <viewerHeight>450</viewerHeight>
+    <imageScale>0.3</imageScale>
+    <imageFormat>1</imageFormat>
+    <jpgQuality>94</jpgQuality>
+    <jpgQualityHighres>94</jpgQualityHighres>
+    <cropMarginScale>4</cropMarginScale>
+    <cropMarginTop>0</cropMarginTop>
+    <cropMarginLeft>0</cropMarginLeft>
+    <cropMarginBottom>0</cropMarginBottom>
+    <cropMarginRight>0</cropMarginRight>
+    <cropFillColor>-1</cropFillColor>
+    <viewerBackColor>-1</viewerBackColor>
+    <hideWatermarks>False</hideWatermarks>
+    <fittedImages>True</fittedImages>
+    <skipImagePublishing>True</skipImagePublishing>
+    <launchLocalBrowser>True</launchLocalBrowser>
+    <launchRemotelBrowser>False</launchRemotelBrowser>
+    <testBrowser>Google Chrome</testBrowser>
+    <publishTemplate>Standard</publishTemplate>
+    <loopGif>True</loopGif>
+    <publishGifPath>
+    </publishGifPath>
+    <gifLoopPeriod>0</gifLoopPeriod>
+    <gifQuality>16</gifQuality>
+    <launchGifInBrowser>True</launchGifInBrowser>
+    <useGAEventTracking>True</useGAEventTracking>
+    <addGATrackingScript>False</addGATrackingScript>
+    <GATrackingAlias>Test</GATrackingAlias>
+    <GATrackingScriptId>
+    </GATrackingScriptId>
+    <createPixriotMeta>False</createPixriotMeta>
+  </publishing>
+  <canvas />
+  <effects>
+    <effect>
+      <type>Spotter.ImageEffectContrast</type>
+      <contrast>12</contrast>
+      <preview>True</preview>
+    </effect>
+    <effect>
+      <type>Spotter.ImageEffectBrighness</type>
+      <brightness>11</brightness>
+      <preview>True</preview>
+    </effect>
+  </effects>
+  <connections>
+    <activeConnection>Do not upload</activeConnection>
+  </connections>
+</settings>
